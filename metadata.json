@@ -1,0 +1,6 @@
+{
+  "name": "The Devil’s Payline",
+  "description": "A dark subterranean casino game in the Infinite Vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
